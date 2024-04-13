@@ -23,7 +23,7 @@
    - [ ] Understanding scope (local vs. global variables).
 
 - [ ] **Advanced Data Manipulation**:
-   - [ ] List comprehensions.
+   - [x] List comprehensions.
    - [ ] Working with sets and their operations (union, intersection, difference).
    - [ ] Using the `zip()` function for parallel iteration.
 
