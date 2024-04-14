@@ -1,5 +1,5 @@
 import unittest
-from ticTacToeBored import check_winner
+from TickTackToeBored import check_winner
 
 class TestGame(unittest.TestCase):
     def test_check_row(self):
