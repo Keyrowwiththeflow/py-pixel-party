@@ -28,8 +28,8 @@
    - [ ] Using the `zip()` function for parallel iteration.
 
 - [ ] **File Handling**:
-   - [ ] Reading from and writing to files.
-   - [ ] Understanding file modes (read, write, append).
+   - [x] Reading from and writing to files.
+   - [] Understanding file modes (read, write, append).
 
 - [ ] **Exception Handling**:
    - [x] Handling errors using:
